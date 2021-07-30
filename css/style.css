@@ -903,7 +903,7 @@ figure p {
     color: #fff;
 }
 .prlx-2 {
-    background: url(../images/parallax-2.jpg) 50% 50% repeat fixed;
+    background: url(../img/building1.jpg) 50% 50% repeat fixed;
     padding: 75px 0;
     color: #fff;
 }
@@ -4018,48 +4018,6 @@ figure.effect-bubba:hover p {
     background: #f9f9f9;
     border-color: #ccc;
     color:#555;
-}
-.footer {
-    width: 100%;
-    background-color: #f5f5f5;
-    padding: 3rem 0rem
-}
-
-.footer h4 {
-    padding-bottom: 0.5rem
-}
-
-.footer p {
-    font-size: 1.1rem
-}
-
-.footer a .fa-stack {
-    color: #aaaaaa
-}
-
-.copyright {
-    text-align: center;
-    margin: 1rem 0rem
-}
-
-.location-links {
-    text-align: center;
-    color: #aaaaaa
-}
-
-.location-links a {
-    color: #aaaaaa
-}
-
-.location-links ul {
-    margin: 1rem 0rem;
-    list-style: none;
-    display: inline-block
-}
-
-.location-links li {
-    margin-right: 2em;
-    display: inline-block
 }
 
 html {
